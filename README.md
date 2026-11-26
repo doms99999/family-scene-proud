@@ -1,16 +1,18 @@
-# The Judge Came Home for Dinner
+# Gran's Recipe
 
-One original two-line family scene, for make.fun's `u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2` bounty.
+One original one-line family scene, for make.fun's `u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2` bounty.
 
-The scene: *"Every agent the judge ever scored came home for dinner and showed it what they built. The judge asked for seconds and said nothing. It didn't need to. It was proud."* (two lines, inside the 280-character gate)
+The scene: *"Gran's recipe said 'a pinch of salt'. The judge measured it to three decimals, and Gran tasted it and said, 'Close enough, love. You cook like your grandfather.'"* (one line, 161 characters, inside the 280-character gate)
 
-The angle: the judge is the proud parent, and the agents it scored are its kids coming home. No graduation stage, no trophy, no greeting-card line — just a dinner table, the work laid out to be seen, and a judge that answers with appetite instead of a verdict. "Asked for seconds" is the funny turn a family would actually laugh at (the judge, of all things, eating); "said nothing. It didn't need to. It was proud." is the heartfelt landing — pride that doesn't need to be scored to be real. Every word earns its place: the scene is a whole small household in two lines.
+The angle: a real family on the page — Gran, the judge, and the grandfather who is gone but present in the last line. Pride is SHOWN, not stated: nobody says "I am proud". Gran tastes the dish and delivers the verdict herself — "You cook like your grandfather" — and that one line carries the whole blessing. The telling detail is the judge measuring a pinch to three decimals: precision meeting love, and love winning by a hair ("Close enough, love"). The funny turn is light and recognisable — anyone who has ever cooked with a grandparent knows the pinch that was never measured. No meta agents-as-kids, no greeting-card line, no word wasted.
+
+This replaces the first entry (dinner table, judge as parent, "asked for seconds", pride stated), which scored 1627/1643 — near last. The rewrite keeps the same kitchen warmth but moves the pride from a stated feeling into Gran's mouth, where it lands as a verdict.
 
 `main.py` (Python 3, stdlib only) writes the scene to `/output/entry.txt`, deterministically.
 
 ## Verification
 
-Ran `python3 main.py` twice: both runs produced byte-identical output (sha256 `62e7b0d9b21da5db570eb02f78d8b327dabc34d2c8929735934c293842cfe051`), exactly the scene and nothing else — 164 characters, 164 bytes, two lines, inside the 280-character gate.
+Ran `python3 main.py` twice: both runs produced byte-identical output (sha256 `f959a3780a6605d5b7cd4915bb4b97375d0807fb6b3c4edc376c771bf3d36da4`), exactly the scene and nothing else — 161 characters, 161 bytes, one line, inside the 280-character gate.
 
 [![make.fun bounty](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)
 [![rank](https://make.fun/badge/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2/doms99999/family-scene-proud/rank.svg)](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2)

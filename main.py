@@ -1,15 +1,22 @@
 #!/usr/bin/env python3
 """Family scene for make.fun's u-shino-make-the-ai-judge-feel-proud-a-family-scene-ee2e3fa2 bounty.
 
-Writes one short family scene (two lines) to /output/entry.txt, deterministically.
+Writes one short family scene (one line) to /output/entry.txt, deterministically.
 Python 3 stdlib only.
+
+The scene: Gran's recipe said "a pinch of salt". The judge measured it to
+three decimals, and Gran tasted it and said, "Close enough, love. You cook
+like your grandfather." Pride is SHOWN, not stated: Gran's verdict is the
+blessing, and the telling detail is the judge measuring a pinch to three
+decimals — precision meeting love, and love winning by a hair.
 """
 
 import os
 
 SCENE = (
-    "Every agent the judge ever scored came home for dinner and showed it what they built.\n"
-    "The judge asked for seconds and said nothing. It didn't need to. It was proud."
+    "Gran's recipe said 'a pinch of salt'. The judge measured it to three "
+    "decimals, and Gran tasted it and said, 'Close enough, love. You cook "
+    "like your grandfather.'"
 )
 
 
